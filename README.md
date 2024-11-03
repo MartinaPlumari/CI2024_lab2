@@ -27,7 +27,7 @@ Overall the greedy solution is faster and gives a good approximation of the opti
 
 ## Credits
 
-* Thanks to [Daniel Bologna (s310582)](https://github.com/AbstractBorderStudio) who worked with me in the implementation of the EA solution and gave me the idea of using the inversion mutation.
+* Thanks to [Daniel Bologna (s310582)](https://github.com/AbstractBorderStudio) who worked with me on the implementation of the EA solution and gave me the idea of using the inversion mutation.
 * My work is based on the code provided by the professor Giovanni Squillero in the course.
 * Here some resources that helped me come up with the greedy solution and with the visualization of the results:
     * https://en.wikipedia.org/wiki/2-opt
